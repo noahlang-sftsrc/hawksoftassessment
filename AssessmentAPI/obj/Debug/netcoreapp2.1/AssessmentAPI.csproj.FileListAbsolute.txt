@@ -1,0 +1,14 @@
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\bin\Debug\netcoreapp2.1\AssessmentAPI.deps.json
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\bin\Debug\netcoreapp2.1\AssessmentAPI.runtimeconfig.json
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\bin\Debug\netcoreapp2.1\AssessmentAPI.runtimeconfig.dev.json
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\bin\Debug\netcoreapp2.1\AssessmentAPI.dll
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\bin\Debug\netcoreapp2.1\AssessmentAPI.pdb
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\obj\Debug\netcoreapp2.1\AssessmentAPI.csprojAssemblyReference.cache
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\obj\Debug\netcoreapp2.1\AssessmentAPI.csproj.CoreCompileInputs.cache
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\obj\Debug\netcoreapp2.1\AssessmentAPI.RazorAssemblyInfo.cache
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\obj\Debug\netcoreapp2.1\AssessmentAPI.RazorAssemblyInfo.cs
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\obj\Debug\netcoreapp2.1\AssessmentAPI.AssemblyInfoInputs.cache
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\obj\Debug\netcoreapp2.1\AssessmentAPI.AssemblyInfo.cs
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\obj\Debug\netcoreapp2.1\AssessmentAPI.RazorTargetAssemblyInfo.cache
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\obj\Debug\netcoreapp2.1\AssessmentAPI.dll
+C:\Users\noah.langenwalter\Projects\Hawksoft\hawksoftassessment\AssessmentAPI\obj\Debug\netcoreapp2.1\AssessmentAPI.pdb

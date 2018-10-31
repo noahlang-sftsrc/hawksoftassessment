@@ -1,0 +1,39 @@
+<div>
+  <h2></h2>
+  <form>
+      <div class="form-group">
+          <label for="date-input">First Name:</label>
+          <input type="date" id="date-input" [(ngModel)]="contact.FirstName" class="form-control" />
+      </div>
+      <div class="form-group">
+        <label for="date-input">Last Name:</label>
+        <input type="date" id="date-input" [(ngModel)]="contact.LastName" class="form-control" />
+      </div>
+      <div class="form-group">
+        <label for="date-input">Phone Number:</label>
+        <input type="date" id="date-input" [(ngModel)]="contact.FirstName" class="form-control" />
+      </div>
+      <div class="form-group">
+        <label for="date-input">Line 1:</label>
+        <input type="date" id="date-input" [(ngModel)]="contact.Line1" class="form-control" />
+      </div>
+      <div class="form-group">
+        <label for="date-input">Line 2:</label>
+        <input type="date" id="date-input" [(ngModel)]="contact.Line2" class="form-control" />
+      </div>
+      <div class="form-group">
+        <label for="date-input">City:</label>
+        <input type="date" id="date-input" [(ngModel)]="contact.City" class="form-control" />
+      </div>
+      <div class="form-group">
+        <label for="date-input">State:</label>
+        <input type="date" id="date-input" [(ngModel)]="contact.State" class="form-control" />
+      </div>
+      <div class="form-group">
+        <label for="date-input">Zip Code:</label>
+        <input type="date" id="date-input" [(ngModel)]="contact.ZipCode" class="form-control" />
+      </div>
+      <button type="button" class="btn btn-primary" (click)="addOrUpdateContact($event);">Save</button>
+
+  </form>
+ </div>
